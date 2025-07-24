@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ihavebeautifuleyes
+- 👋 Hi, I’m @jahnavi
 - 👀 I’m interested in MUSIC
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on amazing projects
